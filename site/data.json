@@ -1,31 +1,31 @@
 {
-  "updatedAt": "2026-10-26T01:30:48.793Z",
+  "updatedAt": "2026-10-26T07:25:25.195Z",
   "items": {
     "oficial": {
       "label": "Dólar oficial",
       "price": 1549.77,
-      "at": "2026-10-25T22:25:47.682-03:00",
+      "at": "2026-10-26T04:20:48.676-03:00",
       "trend": "flat",
       "note": "Compra $ 1.496,32 · 0,00% vs. ayer"
     },
     "blue": {
       "label": "Dólar blue",
       "price": 1565,
-      "at": "2026-10-25T22:25:47.687-03:00",
+      "at": "2026-10-26T04:20:48.686-03:00",
       "trend": "flat",
       "note": "Compra $ 1.545,00 · 0,00% vs. ayer"
     },
     "bolsa": {
       "label": "Dólar MEP (bolsa)",
       "price": 1562.27,
-      "at": "2026-10-25T22:25:47.680-03:00",
+      "at": "2026-10-26T04:20:48.671-03:00",
       "trend": "flat",
       "note": "Compra $ 1.562,27 · 0,00% vs. ayer"
     },
     "tarjeta": {
       "label": "Dólar tarjeta",
       "price": 2015,
-      "at": "2026-10-25T22:25:47.680-03:00",
+      "at": "2026-10-26T04:20:48.878-03:00",
       "trend": "flat",
       "note": "Compra $ 2.015,00 · 0,00% vs. ayer"
     }
